@@ -2,7 +2,8 @@ The Rainbow
 
 pink 
 orange
-green yellow
+green
+black color
 red
 blue
 These are the colors of the Rainbow
