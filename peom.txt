@@ -8,3 +8,4 @@ black color
 red
 blue
 These are the colors of the Rainbow
+11th line is added in this project
